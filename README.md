@@ -1,6 +1,6 @@
 # Tao Ji · 紀焘
 
-**Assistant Professor & Ph.D. Advisor · Fudan University**
+**Assistant Professor · Fudan University**
 
 My research bridges Linguistics and Computer Science, focusing on the architectural design and development of LLMs.
 
