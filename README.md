@@ -39,6 +39,13 @@ I am particularly interested in:
       <sub><a href="https://github.com/Knlife">@Knlife</a></sub>
     </td>
     <td align="center" width="140">
+      <a href="https://github.com/SchweitzerGAO">
+        <img src="https://github.com/SchweitzerGAO.png?size=160" width="80" height="80" alt="GitHub avatar of Yangfan Gao"><br>
+        <b>Yangfan Gao</b>
+      </a><br>
+      <sub><a href="https://github.com/SchweitzerGAO">@SchweitzerGAO</a></sub>
+    </td>
+    <td align="center" width="140">
       <a href="https://github.com/sjyouuuuug">
         <img src="https://github.com/sjyouuuuug.png?size=160" width="80" height="80" alt="GitHub avatar of Jiayang Shi"><br>
         <b>Jiayang Shi</b>
@@ -52,6 +59,8 @@ I am particularly interested in:
       </a><br>
       <sub><a href="https://github.com/scv11">@scv11</a></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="140">
       <a href="https://github.com/RmZeta2718">
         <img src="https://github.com/RmZeta2718.png?size=160" width="80" height="80" alt="GitHub avatar of Jie Wang"><br>
@@ -66,6 +75,13 @@ I am particularly interested in:
 
 <table>
   <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/HaZ-K">
+        <img src="https://github.com/HaZ-K.png?size=160" width="80" height="80" alt="GitHub avatar of Jiazheng Zhou"><br>
+        <b>Jiazheng Zhou</b>
+      </a><br>
+      <sub><a href="https://github.com/HaZ-K">@HaZ-K</a></sub>
+    </td>
     <td align="center" width="140">
       <a href="https://github.com/Feanus">
         <img src="https://github.com/Feanus.png?size=160" width="80" height="80" alt="GitHub avatar of Rui Wang"><br>
