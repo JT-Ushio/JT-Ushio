@@ -2,21 +2,21 @@
 
 **Assistant Professor & Ph.D. Advisor · Fudan University**
 
-[FudanNLP Lab](https://nlp.fudan.edu.cn/) · [OpenMOSS](https://openmoss.ai/) · [Shanghai AI Lab](https://www.shlab.org.cn/)
+My research bridges Linguistics and Computer Science, focusing on the architectural design and development of LLMs.
 
-My research bridges Linguistics and Computer Science, focusing on the architectural design and development of Large Language Models (LLMs). I am particularly interested in:
+I am particularly interested in:
 
 - Efficient infrastructure via algorithm-hardware co-design
 - Language-centric multimodal in-context learning
 - Native long-context modeling in LLMs
 
-[Homepage](https://www.taoji.me/) · [Google Scholar](https://scholar.google.com/citations?user=tZlj-O8AAAAJ) · [Email](mailto:taoji@fudan.edu.cn)
+[Google Scholar](https://scholar.google.com/citations?user=tZlj-O8AAAAJ)
 
 ## Codex Usage
 
 <a href="https://codex-usage-profile.meleeisdeveloping.chatgpt.site/api/share/jt-ushio"><img width="660" src="assets/codex-usage.svg" alt="Codex usage for @JT-Ushio" /></a>
 
-## Research Group
+## Research Group (including co-advised students)
 
 <!-- 最多每行 5 人。姓名采用英文名或“名 + 姓”的拼音；增加学生时可复制一个 <td>。 -->
 
@@ -80,6 +80,20 @@ My research bridges Linguistics and Computer Science, focusing on the architectu
 
 <table>
   <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/expectqwq">
+        <img src="https://github.com/expectqwq.png?size=160" width="80" height="80" alt="GitHub avatar of Zile Wang"><br>
+        <b>Zile Wang</b>
+      </a><br>
+      <sub><a href="https://github.com/expectqwq">@expectqwq</a></sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/CHiSwsz">
+        <img src="https://github.com/CHiSwsz.png?size=160" width="80" height="80" alt="GitHub avatar of Zhide Xie"><br>
+        <b>Zhide Xie</b>
+      </a><br>
+      <sub><a href="https://github.com/CHiSwsz">@CHiSwsz</a></sub>
+    </td>
     <td align="center" width="140">
       <a href="https://github.com/Whisper">
         <img src="https://github.com/Whisper.png?size=160" width="80" height="80" alt="GitHub avatar of Kaidi Shu"><br>
