@@ -145,3 +145,5 @@ I am particularly interested in:
 ## Selected Projects
 
 - [**MLAfication**](https://github.com/JT-Ushio/MLAfication) — Adapting pretrained language and vision-language models to use Multi-Head Latent Attention.
+- [**ArchSpace**](https://github.com/InternLM/archspace) — An open platform for transparent, traceable, and reproducible LLM architecture research.
+- [**XTuner**](https://github.com/InternLM/xtuner) — An efficient and scalable training engine for LLMs and large-scale MoE models.
