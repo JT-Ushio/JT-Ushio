@@ -2,15 +2,13 @@
 
 **Assistant Professor · Fudan University**
 
-My research bridges Linguistics and Computer Science, focusing on the architectural design and development of LLMs.
+[My research](https://scholar.google.com/citations?user=tZlj-O8AAAAJ) bridges Linguistics and Computer Science, focusing on the architectural design and development of LLMs.
 
 I am particularly interested in:
 
 - Efficient infrastructure via algorithm-hardware co-design
 - Language-centric multimodal in-context learning
 - Native long-context modeling in LLMs
-
-[Google Scholar](https://scholar.google.com/citations?user=tZlj-O8AAAAJ)
 
 ## Codex Usage
 
