@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title desc">
 <title id="title">Codex usage for @JT-Ushio</title>
-<desc id="desc">11,787,593,096 lifetime tokens. 90 current streak days. Snapshot 2026-10-29T06:42:59.867Z.</desc>
+<desc id="desc">12,205,020,476 lifetime tokens. 91 current streak days. Snapshot 2026-10-30T01:41:43.071Z.</desc>
 <rect x="1" y="1" width="1198" height="488" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
 <g font-family="Arial, Helvetica, sans-serif">
 <circle cx="49" cy="52" r="7" fill="#3fb950"/>
@@ -9,8 +9,8 @@
 <text x="1158" y="60" font-size="19" fill="#8b949e" font-weight="400" text-anchor="end">Account token activity</text>
 <path d="M40 90H1160" stroke="#30363d"/>
 <text x="40" y="128" font-size="20" fill="#8b949e" font-weight="400" >Lifetime tokens</text>
-<g><title>11,787,593,096</title>
-<text x="40" y="183" font-size="46" fill="#e6edf3" font-weight="600" >11.79B</text>
+<g><title>12,205,020,476</title>
+<text x="40" y="183" font-size="46" fill="#e6edf3" font-weight="600" >12.21B</text>
 </g>
 <path d="M305114V190" stroke="#21262d"/>
 <text x="325" y="128" font-size="20" fill="#8b949e" font-weight="400" >Peak day</text>
@@ -19,13 +19,13 @@
 </g>
 <path d="M590114V190" stroke="#21262d"/>
 <text x="610" y="128" font-size="20" fill="#8b949e" font-weight="400" >Current streak</text>
-<g><title>90</title>
-<text x="610" y="183" font-size="46" fill="#e6edf3" font-weight="600" >90 days</text>
+<g><title>91</title>
+<text x="610" y="183" font-size="46" fill="#e6edf3" font-weight="600" >91 days</text>
 </g>
 <path d="M875114V190" stroke="#21262d"/>
 <text x="895" y="128" font-size="20" fill="#8b949e" font-weight="400" >Longest streak</text>
-<g><title>90</title>
-<text x="895" y="183" font-size="46" fill="#e6edf3" font-weight="600" >90 days</text>
+<g><title>91</title>
+<text x="895" y="183" font-size="46" fill="#e6edf3" font-weight="600" >91 days</text>
 </g>
 <text x="40" y="237" font-size="20" fill="#e6edf3" font-weight="500" >Daily token activity</text>
 <rect x="40" y="280" width="16" height="16" rx="3" fill="#161b22"><title>2025-10-26: No reported data</title></rect>
@@ -369,7 +369,7 @@
 <rect x="1006" y="385" width="16" height="16" rx="3" fill="#245b94"><title>2026-09-18: 31,793,229 tokens</title></rect>
 <rect x="1006" y="406" width="16" height="16" rx="3" fill="#245b94"><title>2026-09-19: 53,562,281 tokens</title></rect>
 <rect x="1027" y="280" width="16" height="16" rx="3" fill="#8cc7ff"><title>2026-09-20: 271,435,735 tokens</title></rect>
-<rect x="1027" y="301" width="16" height="16" rx="3" fill="#8cc7ff"><title>2026-09-21: 136,511,018 tokens</title></rect>
+<rect x="1027" y="301" width="16" height="16" rx="3" fill="#398de0"><title>2026-09-21: 136,511,018 tokens</title></rect>
 <rect x="1027" y="322" width="16" height="16" rx="3" fill="#8cc7ff"><title>2026-09-22: 152,996,576 tokens</title></rect>
 <rect x="1027" y="343" width="16" height="16" rx="3" fill="#8cc7ff"><title>2026-09-23: 145,278,956 tokens</title></rect>
 <rect x="1027" y="364" width="16" height="16" rx="3" fill="#398de0"><title>2026-09-24: 119,470,994 tokens</title></rect>
@@ -407,9 +407,10 @@
 <rect x="1132" y="280" width="16" height="16" rx="3" fill="#8cc7ff"><title>2026-10-25: 639,552,800 tokens</title></rect>
 <rect x="1132" y="301" width="16" height="16" rx="3" fill="#8cc7ff"><title>2026-10-26: 365,468,021 tokens</title></rect>
 <rect x="1132" y="322" width="16" height="16" rx="3" fill="#8cc7ff"><title>2026-10-27: 360,588,842 tokens</title></rect>
-<rect x="1132" y="343" width="16" height="16" rx="3" fill="#8cc7ff"><title>2026-10-28: 549,844,673 tokens</title></rect>
-<rect x="1132" y="364" width="16" height="16" rx="3" fill="#161b22"><title>2026-10-29: No reported data</title></rect>
-<text x="40" y="459" font-size="17" fill="#8b949e" font-weight="400" >114 reported days · Snapshot Oct 29, 2026</text>
+<rect x="1132" y="343" width="16" height="16" rx="3" fill="#8cc7ff"><title>2026-10-28: 652,042,398 tokens</title></rect>
+<rect x="1132" y="364" width="16" height="16" rx="3" fill="#8cc7ff"><title>2026-10-29: 315,229,655 tokens</title></rect>
+<rect x="1132" y="385" width="16" height="16" rx="3" fill="#161b22"><title>2026-10-30: No reported data</title></rect>
+<text x="40" y="459" font-size="17" fill="#8b949e" font-weight="400" >115 reported days · Snapshot Oct 30, 2026</text>
 <text x="932" y="458" font-size="16" fill="#8b949e" font-weight="400" >Less</text>
 <rect x="974" y="444" width="15" height="15" rx="3" fill="#21262d"/>
 <rect x="995" y="444" width="15" height="15" rx="3" fill="#17375e"/>
