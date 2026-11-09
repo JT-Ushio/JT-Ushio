@@ -1,12 +1,12 @@
 {
-  "capturedAt": "2026-11-07T17:27:29.799Z",
+  "capturedAt": "2026-11-09T02:40:01.868Z",
   "source": "Codex account/usage/read",
   "summary": {
-    "lifetimeTokens": 16886828195,
+    "lifetimeTokens": 17368300168,
     "peakDailyTokens": 926347340,
-    "longestRunningTurnSec": 18373,
-    "currentStreakDays": 100,
-    "longestStreakDays": 100
+    "longestRunningTurnSec": 35050,
+    "currentStreakDays": 101,
+    "longestStreakDays": 101
   },
   "dailyUsageBuckets": [
     {
@@ -503,7 +503,11 @@
     },
     {
       "startDate": "2026-11-07",
-      "tokens": 276459872
+      "tokens": 392666830
+    },
+    {
+      "startDate": "2026-11-08",
+      "tokens": 365265015
     }
   ]
 }
